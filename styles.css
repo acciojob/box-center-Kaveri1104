@@ -6,7 +6,7 @@
 	border:2px solid black;
 }
 .container{
-	border-top:2px solid black;
+	border:2px solid black;
 	dispaly:flex;
 	flex-direction:row;
 	justify-content:center;
