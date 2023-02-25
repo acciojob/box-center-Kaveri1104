@@ -6,8 +6,7 @@
 	border:2px solid black;
 }
 .container{
-	height:400px;
-	background-color:black;
+	border-top:2px solid black;
 	dispaly:flex;
 	flex-direction:row;
 	justify-content:center;
